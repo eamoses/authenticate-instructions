@@ -84,4 +84,4 @@ fatal: Authentication failed for 'https://github.com/username/repository.git/'
 
 13. You should have full `push` and `pull` access from this machine. If it didn't work, go back and copy the access token to your clip board again and try pushing or pulling within a git repository. You might have typed your username incorrectly or maybe the access token didn't copy or paste properly.
 
-14. You're welcome.
+14. You're welcome. 🙌🏽 [Donations Appreciated](https://github.com/sponsors/eamoses) 😊
