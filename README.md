@@ -66,7 +66,7 @@ fatal: Authentication failed for 'https://github.com/username/repository.git/'
 
 4. Give your token a name (Cannot have been used before)
 
-5. Click every box so they're all blue
+5. Click every box so they all have check marks
 
 6. Click `Generate token`
 
